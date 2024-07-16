@@ -1,3 +1,6 @@
 pandas
 numpy
-falsk
+flask
+seaborn
+matplotlib
+scikit-learn
